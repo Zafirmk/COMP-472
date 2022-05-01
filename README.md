@@ -18,14 +18,14 @@ Project Solution
 ## TLDR
 <table>
   <tr>
-    <td><strong>Assignment I</strong></td><td><ul>
+    <td><strong>Project I</strong></td><td><ul>
     <li>Depth first & breadth first searching</li>
     <li>A* searching</li>
     <li>Best first searching</li>
     </ul></td>
   </tr>
   <tr>
-    <td><strong>Assignment II</strong></td><td><ul>
+    <td><strong>Project II</strong></td><td><ul>
     <li>Sentiment Analysis</li>
     <li>K-means clustering</li>
     </ul></td>

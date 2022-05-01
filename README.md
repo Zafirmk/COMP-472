@@ -30,4 +30,4 @@ Project Solution
     <li>K-means clustering</li>
     </ul></td>
   </tr>
-</table>
+</table> 
